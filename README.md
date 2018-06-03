@@ -6,4 +6,4 @@ All material will be in Jupyter notebooks containing exercises with detailed sol
 :smiling_imp:
 
 **I love this stuff** :smile:
-Lets Search! [Google] (http://www.google.com)
+Lets Search! [Google](http://www.google.com)
